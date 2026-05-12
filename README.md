@@ -1,4 +1,4 @@
-## Olá, eu sou o Eduardo! 👋
+## Olá, eu sou o Luiz! 👋
 
 <div>
   <a href="https://github.com/Edwdilima">
